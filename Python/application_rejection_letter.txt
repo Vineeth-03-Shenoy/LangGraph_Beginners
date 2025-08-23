@@ -1,0 +1,16 @@
+Subject: Application Status for Your Job Application
+
+Dear Bob,
+
+Thank you very much for your interest in the Software Engineer position at InfoTech Ltd and for taking the time to apply.
+
+After careful consideration of your application, we regret to inform you that we will not be proceeding with your candidacy at this time. This decision was not easy due to the high quality of applications we received.
+
+We appreciate your interest in joining our team and encourage you to apply for future openings that match your skills and experience.
+
+Thank you once again for your application.
+
+Best regards,
+
+Steve
+HR
