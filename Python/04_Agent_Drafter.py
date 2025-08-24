@@ -35,7 +35,7 @@ def save(filename: str) -> str:
         return "Error: The filename must end with .txt"
 
     try:
-        with open(filename, 'w') as file:
+        with open("../Data/Output/"+filename, 'w') as file:
             file.write(document_content)
         print(f"💾 Document saved to {filename}")
         return f"Document has been saved to {filename}. Process finished."

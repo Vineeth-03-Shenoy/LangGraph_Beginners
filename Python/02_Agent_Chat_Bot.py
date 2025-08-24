@@ -35,7 +35,7 @@ while user_input != 'exit':
     conversation_history = result['messages']
     user_input = input("Enter: ")
 
-with open("logging.txt", "w") as file:
+with open("../Data/Output/logging.txt", "w") as file:
     file.write("Your Conversation Log:\n")
     
     for message in conversation_history:
